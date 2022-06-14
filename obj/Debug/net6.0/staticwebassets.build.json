@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "Kvj0ce6tK/KMANFjVc7Md1bCSuEBkZNZGSJHWSmV50Q=",
+  "Source": "DeployAWSTest",
+  "BasePath": "_content/DeployAWSTest",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
